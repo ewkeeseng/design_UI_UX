@@ -4,7 +4,7 @@
 ## Learning CSS tips
 
 ## Live Link
-- 
+- https://schun92.github.io/design_UI_UX/
  
 ## OmniFood
 
